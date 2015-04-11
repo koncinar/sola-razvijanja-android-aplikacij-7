@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo Wear</string>
+    <string name="activity_wearable_action">Wearable Action Activity</string>
+    <string name="hello_world">Hello wrist!</string>
+    <string name="btn_show_notification">Show notification</string>
+    <string name="notification_title">Notification title</string>
+    <string name="notification_message">Some long notification message</string>
+    <string name="action_start_activity">Start activity</string>
+    <string name="action_start_service">Start service</string>
+    <string name="action_start_broadcast">Start broadcast</string>
+    <string name="msg_activity_started">Activity started</string>
+</resources>
